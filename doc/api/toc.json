@@ -1,0 +1,24 @@
+{
+  "xitorch": [
+    "EditableModule",
+    "LinearOperator",
+    "make_sibling"
+  ],
+  "xitorch.optimize": [
+    "rootfinder",
+    "equilibrium",
+    "minimize"
+  ],
+  "xitorch.integrate": [
+    "quad",
+    "solve_ivp",
+    "mcquad"
+  ],
+  "xitorch.linalg": [
+    "solve",
+    "symeig"
+  ],
+  "xitorch.interpolate": [
+    "Interp1D"
+  ]
+}
